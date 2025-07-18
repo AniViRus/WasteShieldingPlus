@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.2",
+	"VersionName": "2.0.3",
 	"FriendlyName": "Waste Shielding Plus",
 	"Description": "An addon for Waste Shielding rebalancing some of its aspects",
 	"Category": "Modding",
@@ -24,14 +24,8 @@
 			"Name": "WasteShielding",
 			"Enabled": true,
 			"SemVersion": "^3.0.0"
-		},
-		{
-			"Name": "SyntheticOverclocking",
-			"Enabled": true,
-			"Optional": true,
-			"SemVersion": "^1.0.0"
 		}
 	],
-	"SemVersion": "2.0.2",
+	"SemVersion": "2.0.3",
 	"GameVersion": ">=416835"
 }
