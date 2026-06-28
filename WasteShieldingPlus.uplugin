@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.2.1",
+	"VersionName": "2.2.2",
 	"FriendlyName": "Waste Shielding Plus",
 	"Description": "An addon for Waste Shielding rebalancing some of its aspects",
 	"Category": "Modding",
@@ -26,6 +26,6 @@
 			"SemVersion": "^3.6.0 <3.7.0"
 		}
 	],
-	"SemVersion": "2.2.1",
+	"SemVersion": "2.2.2",
 	"GameVersion": ">=491125"
 }
